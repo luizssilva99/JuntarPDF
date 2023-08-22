@@ -19,17 +19,21 @@ Luiz Fernando Silva Monteiro - [LinkedIn](https://www.linkedin.com/in/lf-monteir
 ```bash
 # Clone este repositório
 $ git clone link_do_repositorio
-
+```
+```bash
 # Acesse a pasta do projeto no seu terminal
 $ cd JuntarPDF
-
+```
+```bash
 # Instale o requeirements.txt
 $ pip install -r requirements.txt
-
+```
+```bash
 # Execute o código
 # Windows
 $ python JuntarPDF.py
-
+```
+```bash
 # Linux
 $ python3 JuntarPDF.py
 ```
