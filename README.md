@@ -16,25 +16,25 @@ Luiz Fernando Silva Monteiro - [LinkedIn](https://www.linkedin.com/in/lf-monteir
 
 ## Como rodar o projeto?
 
+#### Clone este repositório
 ```bash
-# Clone este repositório
 $ git clone link_do_repositorio
 ```
+### Acesse a pasta do projeto no seu terminal
 ```bash
-# Acesse a pasta do projeto no seu terminal
 $ cd JuntarPDF
 ```
+### Instale o requeirements.txt
 ```bash
-# Instale o requeirements.txt
 $ pip install -r requirements.txt
 ```
+### Execute o código
+### Windows
 ```bash
-# Execute o código
-# Windows
 $ python JuntarPDF.py
 ```
+### Linux
 ```bash
-# Linux
 $ python3 JuntarPDF.py
 ```
 
