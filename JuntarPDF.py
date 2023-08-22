@@ -16,3 +16,4 @@ for arquivo in lista_arquivos:
 
 # Gerando o PDF final
 merger.write("PDF Final.pdf")
+print("Junção finalizada!")
